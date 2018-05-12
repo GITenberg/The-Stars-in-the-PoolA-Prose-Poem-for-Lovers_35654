@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37806'
     url: http://www.gutenberg.org/2009/agents/37806
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35654#The-Stars-in-the-PoolA-Prose-Poem-for-Lovers
 gutenberg_issued: '2011-03-22'
 gutenberg_type: Text
 identifiers:
